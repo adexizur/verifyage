@@ -1,0 +1,78 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+.MF
+.tags*
+TAGS
+*.tmproj
+*.mar
+*.master
+*.ncb
+*.orig
+*.pyc
+*.pyo
+*.rej
+*.sconsign
+*.swp
+*~
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.mypy_cache/
+.pytest_cache/
+htmlcov/
+.coverage.*
+
+# Environment variables
+.env
+.env.local
+.env.*
+
+# Dependencies
+node_modules/
+
+# Build and distribution artifacts
+dist/
+build/
+*.egg-info/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+iTunes_Control.db
+```
